@@ -1,1 +1,1 @@
-absolute path name of the current working directory
+list content of directory display
