@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -na cat 5-listfilesdigitonly
+ls -na
